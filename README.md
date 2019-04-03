@@ -1,9 +1,9 @@
 # dx-workshop
 
 ### Do These First
-- [App Development with Salesforce DX] (https://trailhead.salesforce.com/content/learn/modules/sfdx_app_dev)
-- [Continuous Integration Using Salesforce DX] (https://trailhead.salesforce.com/content/learn/modules/sfdx_travis_ci)
-- [Quick Start: Visual Studio Code for Salesforce Development] (https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce)
+[App Development with Salesforce DX] (https://trailhead.salesforce.com/content/learn/modules/sfdx_app_dev)
+[Continuous Integration Using Salesforce DX] (https://trailhead.salesforce.com/content/learn/modules/sfdx_travis_ci)
+[Quick Start: Visual Studio Code for Salesforce Development] (https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce)
 
 #### Salesforce CLI
 - https://sfdc.co/sfdx_cli_osx
@@ -19,4 +19,3 @@
 #### VS Code
 - https://code.visualstudio.com/download
 
-[I'm an inline-style link](https://www.google.com)
