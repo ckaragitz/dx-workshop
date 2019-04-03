@@ -1,8 +1,8 @@
 # dx-workshop
 
-#H4GIT
+####GIT
 http://git-scm.com/download/mac
 http://git-scm.com/download/win
 
-#H4VS Code
+####VS Code
 https://code.visualstudio.com/download
