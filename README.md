@@ -18,3 +18,5 @@
 
 #### VS Code
 - https://code.visualstudio.com/download
+
+[I'm an inline-style link](https://www.google.com)
