@@ -1,15 +1,9 @@
-<template>
-    <lightning-card title={address} icon-name="custom:custom106">
-        <lightning-map
-            map-markers={markers}
-            zoom-level={zoomLevel}
-        ></lightning-map>
-        <template if:true={error}>
-            <c-inline-message
-                variant="error"
-                message="Error retrieving pictures"
-                errors={error}
-            ></c-inline-message>
-        </template>
-    </lightning-card>
-</template>
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>45.0</apiVersion>
+    <isExposed>true</isExposed>
+    <targets>
+    	<target>lightning__AppPage</target>
+        <target>lightning__HomePage</target>
+    </targets>
+</LightningComponentBundle>
